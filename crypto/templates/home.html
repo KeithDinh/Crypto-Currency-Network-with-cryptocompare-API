@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<div class="jumbotron text-center">
+	<h1 class="display-4 ">Crypto News Network</h1>
+	<p class="lead">Real-time updating source for Crypto Currency and Blockchain News! </p>
+</div>
+
+<table class="table table-hover table-striped table-bordered">
+	<thead>
+		<tr>
+			<th scope="col">Name</th>
+			<th scope="col">Price</th>
+			<th scope="col">Daily High</th>
+			<th scope="col">Daily Low</th>
+			<th scope="col">MarketCap</th>
+		</tr>
+	</thead>
+  <tbody>
+		{% for key,value in price.DISPLAY.items %}
+			<tr class="">
+				<th scope="row">{{key}}</th>
+				<td>{{value.USD.PRICE}}</td>
+				<td>{{value.USD.HIGHDAY}}</td>
+				<td>{{value.USD.LOWDAY}} </td>
+				<td>{{value.USD.MKTCAP}}</td>
+			</tr>
+		{% endfor %}
+  </tbody>
+</table>
+
+<br>
+<div class="container">
+	<div class="row">
+		{% for data in api.Data %}
+
+<!-- 			<div class="col-sm">
+				<div class="card" style="width: 18rem;">
+				  <img class="card-img-top" src="{{data.imageurl}}" alt="{{data.source}}">
+				  <div class="card-body">
+				    <h5 class="card-title">{{data.title}}</h5>
+				    <p class="card-text">{{data.body}}</p>
+				    <a href="{{data.url}}" class="btn btn-secondary">Read More</a>
+				  </div>
+				</div>
+			</div> -->
+			
+			<div class="col-12 mt-3">
+	            <div class="card">
+	                <div class="card-horizontal">
+	                    <div class="img-square-wrapper">
+	                        <img class="" src="{{data.imageurl}}" alt="{{data.source}}">
+	                    </div>
+	                    <div class="card-body">
+	                        <h4 class="card-title">{{data.title}}</h4>
+	                        <p class="card-text">{{data.body}}</p>
+	                        <a href="{{data.url}}" class="btn btn-secondary">Read More</a>
+	                    </div>
+	                </div>
+	            </div>
+       		</div>
+
+		{% endfor %}
+	</div>
+</div>
+
+
+
+{% endblock %}

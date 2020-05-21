@@ -1,0 +1,1009 @@
+{
+  "Type": 100,
+  "Message": "News list successfully returned",
+  "Promoted": [],
+  "Data": [
+    {
+      "id": "14681238",
+      "guid": "https://www.cryptopolitan.com/?p=44617",
+      "published_on": 1590024891,
+      "imageurl": "https://images.cryptocompare.com/news/cryptopolitan/f6FU4k5d320.jpeg",
+      "title": "Shopify now accepts cryptocurrency payments",
+      "url": "https://www.cryptopolitan.com/shopify-brings-cryptocurrency-payments/",
+      "source": "cryptopolitan",
+      "body": "Shopify and its extensive list of clients will now accept cryptocurrency payments after the Canadian e-commerce giant signed a strategic alliance with a crypto payments processor, CoinPayments, on Wednesday. Shopify is riding a wave of cryptocurrency and blockchain success. In February, it joined forces with the controversial yet eagerly-awaited project Libra led by Facebook\u2019s Zuckerberg. [&#8230;]",
+      "tags": "Industry News|cryptocurrency adoption|cryptocurrency credit cards|cryptocurrency payment|partnership|payments|shopping",
+      "categories": "Blockchain",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Cryptopolitan",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png"
+      }
+    },
+    {
+      "id": "14680393",
+      "guid": "https://cointelegraph.com/news/craig-wright-denies-transferring-satoshi-coins-leaving-him-in-legal-catch-22",
+      "published_on": 1590023220,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/c0EUAO834Os.jpeg",
+      "title": "Craig Wright Denies Transferring \u2018Satoshi\u2019 Coins, Leaving Him in Legal Catch-22",
+      "url": "https://cointelegraph.com/news/craig-wright-denies-transferring-satoshi-coins-leaving-him-in-legal-catch-22",
+      "source": "cointelegraph",
+      "body": "Wright has denied moving 50 Bitcoin from one of the \u2018Satoshi\u2019 accounts he claimed in court as his own, leaving him in a legal quandary.",
+      "tags": "Bitcoin|craig wright|satoshi nakamoto|law",
+      "categories": "Regulation|BTC",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14680215",
+      "guid": "https://www.cryptopolitan.com/?p=44610",
+      "published_on": 1590023216,
+      "imageurl": "https://images.cryptocompare.com/news/cryptopolitan/cywbpwM0309.png",
+      "title": "Bitcoin price sees rollback to $9350",
+      "url": "https://www.cryptopolitan.com/bitcoin-price-sees-rollback-to-9350/",
+      "source": "cryptopolitan",
+      "body": "Bitcoin price fell to $9500 on the 20th of May. Lingrid, the TradingView analyst, had suggested that BTC will see a rollback towards the nearest support above the $9350 mark. The cryptocurrency had been trading near the $9800 level before the Relative Strength Index (RSI)\u00a0encountered a bearish convergence on the hourly time frame. 1-Day Bitcoin [&#8230;]",
+      "tags": "Bitcoin Price|bitcoin|Bitcoin price",
+      "categories": "BTC|Trading|Market",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Cryptopolitan",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png"
+      }
+    },
+    {
+      "id": "14679983",
+      "guid": "https://www.newsbtc.com/?p=424637",
+      "published_on": 1590022845,
+      "imageurl": "https://images.cryptocompare.com/news/newsbtc/a4YY8nl1b0h.jpeg",
+      "title": "Bitcoin Rallied 28% Two Weeks After Satoshi-Era Coins Moved in 2017",
+      "url": "https://www.newsbtc.com/2020/05/21/bitcoin-rallied-when-2009-coins-moved/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-rallied-when-2009-coins-moved",
+      "source": "newsbtc",
+      "body": "So-called \u201cCrypto Twitter\u201d was set ablaze today by an unusual 50 Bitcoin transaction made by a Satoshi-era wallet from 2009 that has been dormant for over a decade. News of this initially led many to speculate that this could be the cryptocurrency\u2019s elusive founder \u2013 Satoshi Nakamoto \u2013moving his holdings, but later data suggests that...",
+      "tags": "Bitcoin|Crypto|bitcoin|btc|btcusd|BTCUSDT|xbtusd",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "NewsBTC",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+      }
+    },
+    {
+      "id": "14679982",
+      "guid": "https://bitcoinist.com/?p=134425",
+      "published_on": 1590022805,
+      "imageurl": "https://images.cryptocompare.com/news/bitcoinist/dqg7J21Cy0x.jpeg",
+      "title": "Even After 94% Crash From 2018 Peak, Analysts Think XRP Isn\u2019t Done Falling Yet",
+      "url": "https://bitcoinist.com/even-after-94-crash-from-2018-peak-analysts-think-xrp-isnt-done-falling-yet/?utm_source=rss&utm_medium=rss&utm_campaign=even-after-94-crash-from-2018-peak-analysts-think-xrp-isnt-done-falling-yet",
+      "source": "bitcoinist",
+      "body": "While XRP is one of the most popular projects in the space, it has been one of the worst performing large-cap cryptocurrencies since the 2018&#8217;s highs. Even after the recent rally in this nascent market that saw most digital assets double in the span of six weeks, XRP is down by over 94% from its all-time high established on Bitstamp in early 2018. And in March, the asset was trading at three-year lows. While some [&#8230;]",
+      "tags": "Altcoin Price|Altcoin|bearish|Technical Analysis|XRP|XRPBTC|XRPUSD",
+      "categories": "XRP|Trading|Market|Altcoin",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Bitcoinist",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/bitcoinist.png"
+      }
+    },
+    {
+      "id": "14678754",
+      "guid": "https://cointelegraph.com/news/chinese-police-arrest-12-fake-huobi-officials",
+      "published_on": 1590020640,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/fs1it3Czira.jpeg",
+      "title": "Chinese Police Arrest 12 Fake \u2018Huobi Officials\u2019",
+      "url": "https://cointelegraph.com/news/chinese-police-arrest-12-fake-huobi-officials",
+      "source": "cointelegraph",
+      "body": "Chinese authorities have busted a group of scammers allegedly claiming to be \u201cHuobi officials\u201d.",
+      "tags": "Regulation|Fraud|Scams|China|Huobi|OTC",
+      "categories": "Asia|Regulation",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14678140",
+      "guid": "https://cointelegraph.com/news/mystery-account-rescues-6m-of-steem-from-hard-fork-seizure",
+      "published_on": 1590019800,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/dkqd610Mc04.jpeg",
+      "title": "Mystery Account \u2018Rescues\u2019 $6M of STEEM From Hard Fork Seizure",
+      "url": "https://cointelegraph.com/news/mystery-account-rescues-6m-of-steem-from-hard-fork-seizure",
+      "source": "cointelegraph",
+      "body": "Steem\u2019s latest hard fork has been completed but almost $6 million of STEEM due for seizure was \u2018rescued\u2019 in a mysterious transaction to Bittrex exchange.",
+      "tags": "Blockchain|Business|Technology|Decentralization|Steem|Justin Sun|Tron|Community|Tokens|Bittrex|Cryptocurrency Exchange|Hard Fork",
+      "categories": "Exchange|ICO|Blockchain|Technology|Business",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14677728",
+      "guid": "https://bitcoinist.com/?p=134426",
+      "published_on": 1590019210,
+      "imageurl": "https://images.cryptocompare.com/news/bitcoinist/9braijAo0Un.jpeg",
+      "title": "Why It\u2019s Unlikely the 50 Bitcoin Transaction From the 2009 Address is Satoshi",
+      "url": "https://bitcoinist.com/why-highly-unlikely-50-bitcoin-transaction-2009-address-is-satoshi/?utm_source=rss&utm_medium=rss&utm_campaign=why-highly-unlikely-50-bitcoin-transaction-2009-address-is-satoshi",
+      "source": "bitcoinist",
+      "body": "If you haven&#8217;t been living under a rock, you know that today, 50 Bitcoin from an address created one month after the cryptocurrency&#8217;s birth in January 2009 was just moved. Fifty coins is not a large amount of money if you consider the expanse of the entire crypto market. It&#8217;s around $500,000 in a market worth in excess of $200 billion. Though due to the proximity of this address&#8217; age to the creation of the [&#8230;]",
+      "tags": "Bitcoin|bitcoin|btcusd|BTCUSDT|Jimmy Song|mining|Satoshi Nakamoto|xbtusd",
+      "categories": "BTC|Market|Mining",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Bitcoinist",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/bitcoinist.png"
+      }
+    },
+    {
+      "id": "14676421",
+      "guid": "https://www.newsbtc.com/?p=424645",
+      "published_on": 1590017225,
+      "imageurl": "https://images.cryptocompare.com/news/newsbtc/blrjyhEQgQb.jpeg",
+      "title": "Who Is Satoshi? Rounding Up The Usual Suspects After Today\u2019s 50 Bitcoin Transaction",
+      "url": "https://www.newsbtc.com/2020/05/20/who-is-satoshi-bitcoin-transaction/?utm_source=rss&utm_medium=rss&utm_campaign=who-is-satoshi-bitcoin-transaction",
+      "source": "newsbtc",
+      "body": "This morning, a 50 BTC transaction with a UXTO from February 2009 was made, sending the Bitcoin community into a storm of speculation. Was it Satoshi who was moving the coins, or someone close to the original, mysterious creator of the first-ever cryptocurrency? The discussion has brought back discussion as to who Satoshi actually could...",
+      "tags": "Bitcoin|Crypto|bitcoin|btcusd|BTCUSDT|crypto|Satoshi Nakamoto",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "NewsBTC",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+      }
+    },
+    {
+      "id": "14675909",
+      "guid": "https://cointelegraph.com/news/new-partnership-adds-crypto-payment-routes-on-shopify",
+      "published_on": 1590016197,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/d0M400Cx670.jpeg",
+      "title": "New Partnership Adds Crypto Payment Routes on Shopify",
+      "url": "https://cointelegraph.com/news/new-partnership-adds-crypto-payment-routes-on-shopify",
+      "source": "cointelegraph",
+      "body": "Shopify sellers can now accept crypto via digital asset payment processor, CoinPayments. ",
+      "tags": "Bitcoin Payments|CoinPayments|Payments|E-Commerce",
+      "categories": "Other",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14675500",
+      "guid": "https://www.newsbtc.com/?p=424619",
+      "published_on": 1590015615,
+      "imageurl": "https://images.cryptocompare.com/news/newsbtc/a1HqGBlgQE4.jpeg",
+      "title": "Bitcoin Shows Signs of Weakness as 11-Year-Old Wallet Moves 50 BTC",
+      "url": "https://www.newsbtc.com/2020/05/20/bitcoin-shows-weakness-as-11-year-old-wallet-moves-50-btc/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-shows-weakness-as-11-year-old-wallet-moves-50-btc",
+      "source": "newsbtc",
+      "body": "The crypto market was surprised to find that an 11-year-old Bitcoin wallet from early 2009 \u2013 just after the cryptocurrency\u2019s launch \u2013 is now moving BTC. This has sparked a plethora of theories to emerge regarding whether or not it is Satoshi himself \u2013 or one of his associates \u2013 that is moving the cryptocurrency....",
+      "tags": "Bitcoin|Crypto|bitcoin|btcusd|BTCUSDT|xbtusd",
+      "categories": "BTC|Market",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "NewsBTC",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+      }
+    },
+    {
+      "id": "14675499",
+      "guid": "https://bitcoinist.com/?p=134416",
+      "published_on": 1590015610,
+      "imageurl": "https://images.cryptocompare.com/news/bitcoinist/cv6NYsMcjwN.jpeg",
+      "title": "Here\u2019s Why Traders Think Bitcoin is on the Cusp of Printing a $1,000 Candle",
+      "url": "https://bitcoinist.com/heres-why-traders-think-bitcoin-is-on-the-cusp-of-printing-a-1000-candle/?utm_source=rss&utm_medium=rss&utm_campaign=heres-why-traders-think-bitcoin-is-on-the-cusp-of-printing-a-1000-candle",
+      "source": "bitcoinist",
+      "body": "Bitcoin has continued ranging sideways within the upper-$9,000 region following a series of rejections at $10,000 The ongoing bout of sideways trading may mark buyers\u2019 attempt to generate increased trading activity from bulls Analysts are noting that Bitcoin is nearing the apex of a large ascending triangle The resolution of this pattern could be the impetus for BTC to print a $1,000 candle Bitcoin has struggled to garner much momentum in recent times, with its [&#8230;]",
+      "tags": "Bitcoin|bitcoin|btcusd|BTCUSDT|xbtusd",
+      "categories": "BTC|Trading",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Bitcoinist",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/bitcoinist.png"
+      }
+    },
+    {
+      "id": "14674932",
+      "guid": "https://decrypt.co/?p=29617",
+      "published_on": 1590014776,
+      "imageurl": "https://images.cryptocompare.com/news/decrypt/dxaIC21oj0w.png",
+      "title": "Coinbase says employees can work from home permanently",
+      "url": "https://decrypt.co/29617/coinbase-employees-work-from-home-permanently",
+      "source": "decrypt",
+      "body": "CEO Brian Armstrong envisions a decentralized future with small offices in 10 cities.",
+      "tags": "Business",
+      "categories": "Business",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Decrypt",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+      }
+    },
+    {
+      "id": "14674522",
+      "guid": "https://cryptobriefing.com/?p=58765",
+      "published_on": 1590014019,
+      "imageurl": "https://images.cryptocompare.com/news/cryptobriefing/d9o8Q6g8EwM.png",
+      "title": "The Five Best Crypto Payment Cards for 2020",
+      "url": "https://cryptobriefing.com/five-best-crypto-payment-cards-2020/",
+      "source": "cryptobriefing",
+      "body": "Crypto-powered payment cards give you a way to spend your Bitcoin and other crypto holdings while earning rewards. Here is our assessment of the top five. Prepaid crypto cards are&#46;&#46;&#46;The post The Five Best Crypto Payment Cards for 2020 appeared first on Crypto Briefing.",
+      "tags": "Product Reviews",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Crypto Briefing",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cryptobriefing.png"
+      }
+    },
+    {
+      "id": "14673805",
+      "guid": "https://decrypt.co/?p=29609",
+      "published_on": 1590012967,
+      "imageurl": "https://images.cryptocompare.com/news/decrypt/88EtpkAoEEG.jpeg",
+      "title": "Bitcoin dips as S&P 500 reaches highest peak in two months",
+      "url": "https://decrypt.co/29609/bitcoin-dips-sp-500-reaches-highest-peak-two-months",
+      "source": "decrypt",
+      "body": "States are reopening as more companies report promising COVID cure news. The S&#38;P 500 had its best day in a long while. Bitcoin, not so much.",
+      "tags": "Markets|BTC|ETH",
+      "categories": "BTC|ETH|Market",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Decrypt",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+      }
+    },
+    {
+      "id": "14673701",
+      "guid": "https://www.theblockcrypto.com/linked/65863/",
+      "published_on": 1590012827,
+      "imageurl": "https://images.cryptocompare.com/news/theblock/f08U104I1hw.jpeg",
+      "title": "U.S. bank regulator chief to depart, with Coinbase\u2019s former top lawyer set to serve in acting capacity",
+      "url": "https://www.theblockcrypto.com/linked/65863/us-bank-regulator-otting-brooks?utm_source=cryptocompare&utm_medium=rss",
+      "source": "theblock",
+      "body": "Joseph Otting is slated to step down from his post as Comptroller of the Currency this week, according to a new report from the Wall Street Journal.The post U.S. bank regulator chief to depart, with Coinbase&#8217;s former top lawyer set to serve in acting capacity appeared first on The Block.",
+      "tags": "Regulation|Brian Brooks|coinbase|Joseph Otting|OCC",
+      "categories": "Fiat|Regulation",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "TheBlock",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/theblock.png"
+      }
+    },
+    {
+      "id": "14673496",
+      "guid": "https://dailyhodl.com/?p=98378",
+      "published_on": 1590012326,
+      "imageurl": "https://images.cryptocompare.com/news/dailyhodl/ar4Q56g58gd.jpeg",
+      "title": "Billionaire Bitcoin (BTC) Bull Tim Draper Reveals His Top Investments, Biggest Shakers",
+      "url": "https://dailyhodl.com/2020/05/20/billionaire-bitcoin-btc-bull-tim-draper-reveals-his-top-investments-biggest-shakers/",
+      "source": "dailyhodl",
+      "body": "Bitcoin bull Tim Draper, founder of the seed-stage venture capital firm Draper Associates, is detailing which of his picks over the years has had the greatest impact on society and delivered the highest dollar value. The billionaire investor has backed a long list of companies that have become household names, picking some of the fastest [&#8230;]The post Billionaire Bitcoin (BTC) Bull Tim Draper Reveals His Top Investments, Biggest Shakers appeared first on The Daily Hodl.",
+      "tags": "Bitcoin|News|venture capital",
+      "categories": "BTC|Trading|Fiat|Business",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "The Daily Hodl",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/dailyhodl.png"
+      }
+    },
+    {
+      "id": "14673264",
+      "guid": "https://www.newsbtc.com/?p=424636",
+      "published_on": 1590012017,
+      "imageurl": "https://images.cryptocompare.com/news/newsbtc/c0_f$27keyD.jpeg",
+      "title": "Craig Wright Faces a Legal Conundrum as 50 Bitcoin Moves From Address He \u201cOwns\u201d",
+      "url": "https://www.newsbtc.com/2020/05/20/craig-wright-faces-a-legal-conundrum-as-50-bitcoin-moves-from-address-he-owns/?utm_source=rss&utm_medium=rss&utm_campaign=craig-wright-faces-a-legal-conundrum-as-50-bitcoin-moves-from-address-he-owns",
+      "source": "newsbtc",
+      "body": "50 Bitcoins that have been mined in the network\u2019s first month have just been moved from an address Craig Wright claimed he owned. The address was part of a list of 16,000 addresses delivered by the bonded courier in January this year, to which Craig claims he had lost the keys to. This poses a...",
+      "tags": "Bitcoin|bitcoin|btcusd|BTCUSDT|craig wright|satoshi|xbtusd",
+      "categories": "BTC|Regulation",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "NewsBTC",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+      }
+    },
+    {
+      "id": "14673086",
+      "guid": "https://www.cryptopolitan.com/?p=44608",
+      "published_on": 1590011744,
+      "imageurl": "https://images.cryptocompare.com/news/cryptopolitan/8011w090284.jpeg",
+      "title": "Enterprise blockchains: Private yet vulnerable to attacks",
+      "url": "https://www.cryptopolitan.com/enterprise-blockchain-private-yet-vulnerable/",
+      "source": "cryptopolitan",
+      "body": "Enterprise blockchains are blockchain networks that are designed as private networks and limited to authorized parties only. This should make them seem more secure and efficient than public networks such as Bitcoin and Ethereum as a lesser number of computers have access to the network and only a few computers have to reach an agreement [&#8230;]",
+      "tags": "Cyber Security News|blockchain|blockchain and AI|hackers|hacks|security",
+      "categories": "Blockchain|Business|BTC|ETH",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Cryptopolitan",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png"
+      }
+    },
+    {
+      "id": "14672880",
+      "guid": "https://www.theblockcrypto.com/genesis/65975/",
+      "published_on": 1590011376,
+      "imageurl": "https://images.cryptocompare.com/news/theblock/cQ001001000.jpeg",
+      "title": "The Logbook: The story of the Totnes\u00a0Pound, one of the first modern local currencies",
+      "url": "https://www.theblockcrypto.com/genesis/65975/the-logbook-the-story-of-the-totnes-pound-one-of-the-first-modern-local-currencies?utm_source=cryptocompare&utm_medium=rss",
+      "source": "theblock",
+      "body": "Quick TakeIn 2007, the English town of Totnes launched an experimental local currency called the Totnes PoundThe Totnes Pound experiment lasted for over 12 years and inspired the creation of other local currencies",
+      "tags": "Markets|local currency|Totnes Pounds",
+      "categories": "Market|Fiat",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "TheBlock",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/theblock.png"
+      }
+    },
+    {
+      "id": "14673011",
+      "guid": "https://www.coindesk.com/index.php?p=477737",
+      "published_on": 1590011371,
+      "imageurl": "https://images.cryptocompare.com/news/coindesk/8kBcdbi660K.jpeg",
+      "title": "US Lawmaker Proposes Legislative Groundwork for National Blockchain Strategy",
+      "url": "https://www.coindesk.com/brett-guthrie-emerging-technologies-blockchain-strategy",
+      "source": "coindesk",
+      "body": "A new bill in Congress asks the U.S. Federal Trade Commission to consider a national blockchain strategy.",
+      "tags": "Policy & regulation|News|Congress|Legislation|House of Representatives|Brett Guthrie|Blockchain Strategy",
+      "categories": "Blockchain|Regulation",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinDesk",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/coindesk.png"
+      }
+    },
+    {
+      "id": "14672777",
+      "guid": "https://decrypt.co/?p=29601",
+      "published_on": 1590011162,
+      "imageurl": "https://images.cryptocompare.com/news/decrypt/aAxwcx8MaN0.jpeg",
+      "title": "Bitcoin\u2019s latest difficulty adjustment could have been worse",
+      "url": "https://decrypt.co/29601/bitcoin-latest-difficulty-adjustment-could-have-been-worse",
+      "source": "decrypt",
+      "body": "Bitcoin\u2019s difficulty adjustment corrected by -6% recently, avoiding what could have been a double digit drop.",
+      "tags": "Coins|BTC",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Decrypt",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+      }
+    },
+    {
+      "id": "14672647",
+      "guid": "https://cointelegraph.com/news/cardano-development-company-to-join-hyperledger-project-w3c",
+      "published_on": 1590011100,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/c1w900Cw4D4.jpeg",
+      "title": "Cardano Development Company to Join Hyperledger Project & W3C",
+      "url": "https://cointelegraph.com/news/cardano-development-company-to-join-hyperledger-project-w3c",
+      "source": "cointelegraph",
+      "body": "Cardano development company will be joining the Hyperledger Project and W3C focusing on the enterprise use cases as part of its bid for the next five years.",
+      "tags": "Blockchain|Cardano|Hyperledger|W3C",
+      "categories": "ADA|Blockchain|Business",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14672140",
+      "guid": "https://eng.ambcrypto.com/?p=47972",
+      "published_on": 1590010246,
+      "imageurl": "https://images.cryptocompare.com/news/ambcrypto/c1000200000.jpeg",
+      "title": "European Central Bank caught up with DLT; will it be used for CBDCs?",
+      "url": "https://eng.ambcrypto.com/european-central-bank-caught-up-with-dlt-will-it-be-used-for-cbdcs",
+      "source": "ambcrypto",
+      "body": "A central bank digital currency [CBDC] has been thought of as an important tool to smoothen technological and financial systems the world over. Central banks like the European Central Bank [ECB] have The post European Central Bank caught up with DLT; will it be used for CBDCs? appeared first on AMBCrypto.",
+      "tags": "News|Social|Trading View",
+      "categories": "Fiat",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "AMB Crypto",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/ambcrypto.png"
+      }
+    },
+    {
+      "id": "14672132",
+      "guid": "https://cointelegraph.com/news/legendary-cryptographer-on-building-the-first-blockchain-in-the-90s",
+      "published_on": 1590010200,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/cSifwgNz5c8.jpeg",
+      "title": "Legendary Cryptographer on Building the First Blockchain in The '90s",
+      "url": "https://cointelegraph.com/news/legendary-cryptographer-on-building-the-first-blockchain-in-the-90s",
+      "source": "cointelegraph",
+      "body": "Jean-Jacques Quisquater, a legendary cryptographer cited in the Bitcoin Whitepaper, discussed building the first blockchain.",
+      "tags": "Blockchain|Whitepaper|Cryptography|Bitcoin",
+      "categories": "Blockchain|BTC",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14672339",
+      "guid": "https://cointelegraph.com/news/did-satoshi-just-move-craig-wrights-bitcoins",
+      "published_on": 1590010140,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/dxgU81iF4w0.jpeg",
+      "title": "Did Satoshi Just Move Craig Wright\u2019s Bitcoins?",
+      "url": "https://cointelegraph.com/news/did-satoshi-just-move-craig-wrights-bitcoins",
+      "source": "cointelegraph",
+      "body": "Did Satoshi Nakamoto just move the Bitcoins that the court documents say belong to Dr. Craig Wright?",
+      "tags": "Bitcoin|Satoshi Nakamoto|Craig Wright|Hal Finney",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14672029",
+      "guid": "https://cryptopotato.com/?p=58527",
+      "published_on": 1590010101,
+      "imageurl": "https://images.cryptocompare.com/news/cryptopotato/eC0h1jw032w.jpeg",
+      "title": "Coinbase Announces Remote-First Culture When Quarantine Restrictions Are Over",
+      "url": "https://cryptopotato.com/coinbase-announces-remote-first-culture-when-quarantine-restrictions-are-over/",
+      "source": "cryptopotato",
+      "body": "After the restrictions of quarantine are over, the leading U.S. based crypto exchange, Coinbase, will embrace a &#8216;remote-first&#8217; culture. The remote-first shift has been accelerated with the duty to comply with the six feet apart social distancing measures currently in place due to Coronavirus. Implications for Coinbase Employees Coinbase estimates that between 20 \u2013 60% [&#8230;]The post Coinbase Announces Remote-First Culture When Quarantine Restrictions Are Over appeared first on CryptoPotato.",
+      "tags": "AA News|BTCUSD|BTCUSDT|Crypto News|Coinbase|Coronavirus (COVID-19)",
+      "categories": "Exchange",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "Crypto Potato",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cryptopotato.png"
+      }
+    },
+    {
+      "id": "14671748",
+      "guid": "https://dailyhodl.com/?p=98394",
+      "published_on": 1590009350,
+      "imageurl": "https://images.cryptocompare.com/news/dailyhodl/bm040180000.jpeg",
+      "title": "Bank of France Announces Successful Test of Blockchain-Based Digital Euro",
+      "url": "https://dailyhodl.com/2020/05/20/bank-of-france-announces-successful-test-of-blockchain-based-digital-euro/",
+      "source": "dailyhodl",
+      "body": "The Bank of France says it&#8217;s successfully completed an initial test of a central bank digital currency based on blockchain technology. The bank says it&#8217;s the first in a series of tests to see if a digital euro has the potential to strengthen global financial markets. In the weeks ahead, the central bank will explore [&#8230;]The post Bank of France Announces Successful Test of Blockchain-Based Digital Euro appeared first on The Daily Hodl.",
+      "tags": "Regulators|blockchain|central bank digital currency|News",
+      "categories": "Fiat|Blockchain|Market|Technology",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "The Daily Hodl",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/dailyhodl.png"
+      }
+    },
+    {
+      "id": "14671337",
+      "guid": "https://www.theblockcrypto.com/daily/65988/",
+      "published_on": 1590008955,
+      "imageurl": "https://images.cryptocompare.com/news/theblock/e0N100M000w.jpeg",
+      "title": "Why Cambodia is eager to launch its own DLT-based digital currency \u2014\u00a0or whatever you want to call it",
+      "url": "https://www.theblockcrypto.com/daily/65988/cambodia-dlt-digital-currency-central-bank?utm_source=cryptocompare&utm_medium=rss",
+      "source": "theblock",
+      "body": "Quick TakeCambodia&#8217;s central bank is set to go live with a new digital currency systemThe system was built using Hyperledger IrohaIf it works, the new system is poised to wean the country\u2019s economy off of its heavy dependence on the U.S. dollar.&nbsp;",
+      "tags": "Blockchain|Technology|Cambodia|Hyperledger|Iroha|Project Bakong",
+      "categories": "Blockchain|Technology|Fiat",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "TheBlock",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/theblock.png"
+      }
+    },
+    {
+      "id": "14671413",
+      "guid": "https://cointelegraph.com/news/in-congress-a-new-bill-asks-for-mass-survey-of-blockchain-technology-in-the-us",
+      "published_on": 1590008940,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/bMe01w2008y.jpeg",
+      "title": "In Congress, a New Bill Asks for Mass Survey of Blockchain Technology in the US",
+      "url": "https://cointelegraph.com/news/in-congress-a-new-bill-asks-for-mass-survey-of-blockchain-technology-in-the-us",
+      "source": "cointelegraph",
+      "body": "A new bill before Congress asks regulators to put together a massive survey on the state of blockchain adoption and rank the U.S.\u2019s adoption relative to other nations.",
+      "tags": "Regulation|Congress|United States|Law|Government",
+      "categories": "Regulation|Blockchain|Technology",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14671259",
+      "guid": "https://zycrypto.com/?p=42117",
+      "published_on": 1590008791,
+      "imageurl": "https://images.cryptocompare.com/news/zycrypto/9lBixxiAAqk.jpeg",
+      "title": "Grayscale Heightens Bitcoin Accumulation With Over 60,000 BTC In The Last 100 Days",
+      "url": "https://zycrypto.com/grayscale-heightens-bitcoin-accumulation-with-over-60000-btc-in-the-last-100-days/",
+      "source": "zycrypto",
+      "body": "A Redditor recently analyzed Grayscale&#8217;s Bitcoin Trust activity in the last 100 days and found out that the investment company has accumulated over 60,000 BTC in its Bitcoin Trust (GBTC). With the Bitcoin value at the time of reporting at around $9,420, it means the company has chipped in $0.5 billion in less than four [&#8230;]",
+      "tags": "Bitcoin|News|Bitcoin News|BTCUSD",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "ZyCrypto",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/zycrypto.png"
+      }
+    },
+    {
+      "id": "14671233",
+      "guid": "https://decrypt.co/?p=29595",
+      "published_on": 1590008761,
+      "imageurl": "https://images.cryptocompare.com/news/decrypt/cWxzUgc0M00.jpeg",
+      "title": "Bitcoin wallet makers SatoshiLabs now building open-source chips",
+      "url": "https://decrypt.co/29595/bitcoin-wallet-makers-satoshilabs-building-open-source-chips",
+      "source": "decrypt",
+      "body": "New Tropic Square company, founded by SatoshiLabs, seeks to produce truly open-source crypto wallets and more via fully-auditable custom chips.",
+      "tags": "Technology|BTC",
+      "categories": "BTC|Technology",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "Decrypt",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+      }
+    },
+    {
+      "id": "14671001",
+      "guid": "https://www.newsbtc.com/?p=424616",
+      "published_on": 1590008459,
+      "imageurl": "https://images.cryptocompare.com/news/newsbtc/egcw608M0y0.jpeg",
+      "title": "The Pandemic May Impede the US Dollar\u2019s Dominance; Will Bitcoin be the Big Winner?",
+      "url": "https://www.newsbtc.com/2020/05/20/bitcoin-the-big-winner-of-shifting-dollar-dominance/?utm_source=rss&utm_medium=rss&utm_campaign=bitcoin-the-big-winner-of-shifting-dollar-dominance",
+      "source": "newsbtc",
+      "body": "The global Coronavirus pandemic has had far reaching political and economic effects, leading to widespread money printing that will eventually catalyze immense inflation. So far, Bitcoin has been a beneficiary from this ongoing economic turbulence. There now appears to be a strong case for the idea that the US Dollar will cede its global dominance...",
+      "tags": "Bitcoin|bitcoin|btcusd|BTCUSDT|xbtusd",
+      "categories": "BTC|Fiat",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "NewsBTC",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+      }
+    },
+    {
+      "id": "14671000",
+      "guid": "https://www.livebitcoinnews.com/?p=59306",
+      "published_on": 1590008440,
+      "imageurl": "https://images.cryptocompare.com/news/livebitcoinnews/9dAANMKAkr9.jpeg",
+      "title": "Dark Web Crypto Use Has Grown Exponentially",
+      "url": "https://www.livebitcoinnews.com/dark-web-crypto-use-has-grown-exponentially/",
+      "source": "livebitcoinnews",
+      "body": "Crime and dark web activity have always been big in the crypto space, but as of late, it looks like the numbers in the space have grown exponentially over the past three years. The Dark Web Is Expanding Heavily According to a new report issued by Bitfury \u2013 a bitcoin technology firm \u2013 dark web...The post Dark Web Crypto Use Has Grown Exponentially appeared first on Live Bitcoin News.",
+      "tags": "Altcoin News|Bitcoin News|News|bitfury|dark web|litecoin|Monero",
+      "categories": "BTC|LTC|XMR|Technology",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "Live Bitcoin News",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/livebitcoinnews.png"
+      }
+    },
+    {
+      "id": "14676216",
+      "guid": "https://nulltx.com/?p=99065",
+      "published_on": 1590008413,
+      "imageurl": "https://images.cryptocompare.com/news/themerkle/8DCulG4m521.jpeg",
+      "title": "Nvidia Faces a Lawsuit Over its Crypto Mining Revenue",
+      "url": "https://nulltx.com/nvidia-faces-a-lawsuit-over-its-crypto-mining-revenue/",
+      "source": "themerkle",
+      "body": "When Nvidia decided to put more effort into its cryptocurrency mining-oriented GPU products, there were some concerns by investors. Several months later, the concerns proved justified, and Nvidia is now facing a major lawsuit. During the crypto mining craze of 2017 and 2018, GPUs were in high demand. Nvidia is in Legal Trouble For companies [&#8230;]The post Nvidia Faces a Lawsuit Over its Crypto Mining Revenue appeared first on NullTX.",
+      "tags": "Crypto|crypto mining|GPU|Nvidia",
+      "categories": "Mining|Business|Regulation",
+      "upvotes": "0",
+      "downvotes": "0",
+      "lang": "EN",
+      "source_info": {
+        "name": "NullTx",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/nulltx.png"
+      }
+    },
+    {
+      "id": "14671414",
+      "guid": "https://cointelegraph.com/news/price-analysis-5-20-btc-eth-xrp-bch-bsv-ltc-bnb-eos-xtz-ada",
+      "published_on": 1590008280,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/c4ywc0N060w.jpeg",
+      "title": "Price Analysis 5/20: BTC, ETH, XRP, BCH, BSV, LTC, BNB, EOS, XTZ, ADA",
+      "url": "https://cointelegraph.com/news/price-analysis-5-20-btc-eth-xrp-bch-bsv-ltc-bnb-eos-xtz-ada",
+      "source": "cointelegraph",
+      "body": "Most major cryptocurrencies have turned down from their immediate resistance levels, which suggests a minor correction in the next few days.",
+      "tags": "Altcoin|Markets|Bitcoin|Ethereum|Ripple|Bitcoin Cash|Bitcoin SV|Litecoin|Binance Coin|EOS|Tezos|Cardano|Price Analysis",
+      "categories": "BCH|ETH|LTC|XRP|ADA",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14670795",
+      "guid": "https://cointelegraph.com/news/adam-back-thinks-recent-btc-move-wasn-t-satoshi",
+      "published_on": 1590007975,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/8qEQBEHxpMk.jpeg",
+      "title": "Adam Back Thinks Recent BTC Move Wasn't Satoshi",
+      "url": "https://cointelegraph.com/news/adam-back-thinks-recent-btc-move-wasn-t-satoshi",
+      "source": "cointelegraph",
+      "body": "Someone just moved Bitcoin from a wallet that has not been active for over 11 years, but Adam Back does not think it was Satoshi Nakamoto. ",
+      "tags": "Satoshi|Satoshi Nakamoto",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14670337",
+      "guid": "https://www.coindesk.com/index.php?p=477667",
+      "published_on": 1590007449,
+      "imageurl": "https://images.cryptocompare.com/news/coindesk/c00000w0000.jpeg",
+      "title": "Market Wrap: Bitcoin Rebounds to $9,500 After Scary Sell-off",
+      "url": "https://www.coindesk.com/market-wrap-bitcoin-rebounds-to-9500-after-scary-sell-off",
+      "source": "coindesk",
+      "body": "Downward bitcoin prices could impact stakeholders more than ever before, including derivatives traders and miners.",
+      "tags": "Markets|Bitstamp|Gold|BitMEX|Bitcoin|Price|Bitcoin Price|Ether|S&P 500|Oil|FTSE 100",
+      "categories": "BTC|Market|Trading|Fiat|Commodity",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinDesk",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/coindesk.png"
+      }
+    },
+    {
+      "id": "14670103",
+      "guid": "https://decrypt.co/?p=29584",
+      "published_on": 1590006970,
+      "imageurl": "https://images.cryptocompare.com/news/decrypt/d2g9iUYwzMy.jpeg",
+      "title": "Libra member Shopify adds another way to pay with crypto",
+      "url": "https://decrypt.co/29584/libra-member-shopify-adds-another-way-pay-crypto",
+      "source": "decrypt",
+      "body": "Crypto payments processor CoinPayments has teamed with Canadian e-commerce giant Shopify to give merchants more ways to accept crypto online.",
+      "tags": "Business",
+      "categories": "Business",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "Decrypt",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/decrypt.png"
+      }
+    },
+    {
+      "id": "14669769",
+      "guid": "https://www.coinspeaker.com/?p=118041",
+      "published_on": 1590006528,
+      "imageurl": "https://images.cryptocompare.com/news/coinspeaker/91LCSCkcUN9.jpeg",
+      "title": "Bitcasino Holds Charity Poker Tourney After Raising 20BTC in COVID-19 Donations",
+      "url": "https://www.coinspeaker.com/bitcasino-charity-poker-tourney-20-btc-covid-donations/",
+      "source": "coinspeaker",
+      "body": "Coinspeaker Bitcasino Holds Charity Poker Tourney After Raising 20BTC in COVID-19 DonationsCrypto gaming pioneer Bitcasino.io and their community of players have managed to raise 20BTC in support of COVID-19 relief by way of donating player Loyalty Rewards.Bitcasino Holds Charity Poker Tourney After Raising 20BTC in COVID-19 Donations",
+      "tags": "Gaming News|News|bitcasino|bitcasino.io|charity poker tournament|covid-19|crypto gaming|crypto vs covid|tauri tiitsaar",
+      "categories": "ICO",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinSpeaker",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/coinspeaker.png"
+      }
+    },
+    {
+      "id": "14669489",
+      "guid": "https://www.theblockcrypto.com/post/65932/",
+      "published_on": 1590005975,
+      "imageurl": "https://images.cryptocompare.com/news/theblock/9dI0c302020.jpeg",
+      "title": "Five block trades made up 81% of CME\u2019s recent bitcoin options contract volume",
+      "url": "https://www.theblockcrypto.com/post/65932/block-trades-cme-bitcoin-options-volume?utm_source=cryptocompare&utm_medium=rss",
+      "source": "theblock",
+      "body": "Derivatives exchange CME Group has seen a significant pickup of its bitcoin options contract volume over the past week, although five trades accounted for around 81% of these contracts.\u00a0The post Five block trades made up 81% of CME&#8217;s recent bitcoin options contract volume appeared first on The Block.",
+      "tags": "Bitcoin|Capital Markets|The Block|$BTC|Bitcoin Futures|bitcoin options|CME|derivatives exchange",
+      "categories": "BTC|Exchange",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "TheBlock",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/theblock.png"
+      }
+    },
+    {
+      "id": "14669359",
+      "guid": "https://cryptopotato.com/?p=58517",
+      "published_on": 1590005926,
+      "imageurl": "https://images.cryptocompare.com/news/cryptopotato/cziAx100c00.jpeg",
+      "title": "Satoshi Nakamoto Probably Did Not Send 50 Bitcoins Today, But Maybe Craig Wright Did?",
+      "url": "https://cryptopotato.com/satoshi-nakamoto-probably-did-not-send-50-bitcoins-today-but-maybe-craig-wright-did/",
+      "source": "cryptopotato",
+      "body": "The recently moved 50 bitcoins, which were mined in February 2009, rattled the cryptocurrency community as many members are arguing if Satoshi Nakamoto himself transferred the coins. While these rumors are speculative at best, the address that sent the bitcoins can actually be located in a court document from the notorious Kleiman vs. Craig Wright [&#8230;]The post Satoshi Nakamoto Probably Did Not Send 50 Bitcoins Today, But Maybe Craig Wright Did? appeared first on CryptoPotato.",
+      "tags": "AA News|BTCUSD|BTCUSDT|Crypto News|Bitcoin|Changpeng Zhao (CZ Binance)|Craig Wright|Jimmy Song|Satoshi Nakamoto",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "Crypto Potato",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cryptopotato.png"
+      }
+    },
+    {
+      "id": "14669052",
+      "guid": "https://cointelegraph.com/news/fran-finney-others-deny-moving-possible-satoshi-bitcoin",
+      "published_on": 1590005317,
+      "imageurl": "https://images.cryptocompare.com/news/cointelegraph/83Uc405M340.jpeg",
+      "title": "Fran Finney & Others Deny Moving Possible 'Satoshi' Bitcoin",
+      "url": "https://cointelegraph.com/news/fran-finney-others-deny-moving-possible-satoshi-bitcoin",
+      "source": "cointelegraph",
+      "body": "Fran Finney has confirmed the recent 2009 Bitcoin wallet transactions were not her husband's coins. ",
+      "tags": "Satoshi|Hal Finney|Satoshi Nakamato",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinTelegraph",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cointelegraph.png"
+      }
+    },
+    {
+      "id": "14668742",
+      "guid": "https://bitcoinist.com/?p=134401",
+      "published_on": 1590004856,
+      "imageurl": "https://images.cryptocompare.com/news/bitcoinist/8MPD9eOAF0i.jpeg",
+      "title": "This Crypto Could Soon Invalidate its Multi-Year Bullish Market Structure",
+      "url": "https://bitcoinist.com/this-crypto-could-soon-invalidate-its-multi-year-bullish-market-structure/?utm_source=rss&utm_medium=rss&utm_campaign=this-crypto-could-soon-invalidate-its-multi-year-bullish-market-structure",
+      "source": "bitcoinist",
+      "body": "Chainlink has seen some immense bullishness throughout the past two years, but its strong market structure dates back even further In spite of the crypto\u2019s ongoing upswing that has led it past $4.00, analysts are still cautious about where it may go next One trader is even noting that he believes it will soon invalidate a key growth curve that has been pivotal to its multi-year uptrend Chainlink\u2019s immense bullishness seen throughout 2019 and 2020 [&#8230;]",
+      "tags": "Altcoins|crypto|LINK|LINKBTC|LINKUSD",
+      "categories": "Market|Trading|Altcoin",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "Bitcoinist",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/bitcoinist.png"
+      }
+    },
+    {
+      "id": "14668772",
+      "guid": "https://cryptoslate.com/?p=133969",
+      "published_on": 1590004855,
+      "imageurl": "https://images.cryptocompare.com/news/cryptoslate/cQU8MP90ww0.jpeg",
+      "title": "Charles Hoskinson discusses Shelley, trolls, and a 1000 tx/s future for Cardano",
+      "url": "https://cryptoslate.com/charles-hoskinson-discusses-shelley-trolls-and-a-1000-tx-s-future-for-cardano/",
+      "source": "cryptoslate",
+      "body": "While the first wave of pioneers is testing Shelley, Hoskinson took to YouTube to answer community questions, touching on topics such as incessant trolls, roadmap deadlines, and handling a future Cardano that could process thousands of transactions every second. The post Charles Hoskinson discusses Shelley, trolls, and a 1000 tx/s future for Cardano appeared first on CryptoSlate.",
+      "tags": "Adoption|Altcoins|ADAUSD",
+      "categories": "ADA|Altcoin",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CryptoSlate",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/cryptoslate.png"
+      }
+    },
+    {
+      "id": "14668744",
+      "guid": "https://www.newsbtc.com/?p=424599",
+      "published_on": 1590004804,
+      "imageurl": "https://images.cryptocompare.com/news/newsbtc/d40i0008008.jpeg",
+      "title": "One Top Crypto Prepares to Lift Off as Social Engagement Metrics Explode",
+      "url": "https://www.newsbtc.com/2020/05/20/one-top-crypto-ready-to-liftoff-social-engagement-explodes/?utm_source=rss&utm_medium=rss&utm_campaign=one-top-crypto-ready-to-liftoff-social-engagement-explodes",
+      "source": "newsbtc",
+      "body": "Most of the top cryptocurrencies by market capitalization have been able to outperform Litecoin since March\u2019s Black Thursday. Since then, Bitcoin and Ethereum are up by more than 130%. Even XRP has been able to recover most of the losses incurred during the marketwide meltdown as it rose by nearly 88%. Meanwhile, the seventh-largest crypto...",
+      "tags": "Analysis|Fundamental|Litecoin|altcoin|analysis|crypto|ltc/usd|ltcbtc",
+      "categories": "Market|LTC|BTC|ETH|XRP",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "NewsBTC",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/newsbtc.png"
+      }
+    },
+    {
+      "id": "14668490",
+      "guid": "https://www.coindesk.com/index.php?p=477610",
+      "published_on": 1590004503,
+      "imageurl": "https://images.cryptocompare.com/news/coindesk/c3wfUFE6YH0.jpeg",
+      "title": "Why $4M Dai Made From WBTC Matters for DeFi\u2019s Maturation",
+      "url": "https://www.coindesk.com/why-4m-dai-made-from-wbtc-matters-for-defis-maturation",
+      "source": "coindesk",
+      "body": "Crypto lender Nexo minted $4 million in dai on MakerDAO using synthetic bitcoin token WBTC as collateral. Here's why that matters.",
+      "tags": "Tech|MakerDAO|Nexo|DAI|DeFi|wBTC",
+      "categories": "BTC|ICO|Technology",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "CoinDesk",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/coindesk.png"
+      }
+    },
+    {
+      "id": "14668256",
+      "guid": "https://www.theblockcrypto.com/linked/65972/",
+      "published_on": 1590004056,
+      "imageurl": "https://images.cryptocompare.com/news/theblock/cD08zwA01j4.jpeg",
+      "title": "Coinbase announces plans for \u2018remote-first\u2019 work policy in light of COVID-19",
+      "url": "https://www.theblockcrypto.com/linked/65972/coinbase-remote-first-covid?utm_source=cryptocompare&utm_medium=rss",
+      "source": "theblock",
+      "body": "Coinbase CEO Brian Armstrong announced Wednesday that the exchange company is moving to a remote-first policy in light of COVID-19, meaning most employees will have the option to work from home.The post Coinbase announces plans for &#8216;remote-first&#8217; work policy in light of COVID-19 appeared first on The Block.",
+      "tags": "Companies|Brian Armstrong|coinbase",
+      "categories": "Exchange",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "TheBlock",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/theblock.png"
+      }
+    },
+    {
+      "id": "14668125",
+      "guid": "https://www.trustnodes.com/?p=30148",
+      "published_on": 1590003894,
+      "imageurl": "https://images.cryptocompare.com/news/trustnodes/dm00E0ww3R0.png",
+      "title": "Speculation Swirls Over the 2009 Bitcoin Miner",
+      "url": "https://www.trustnodes.com/2020/05/20/speculation-swirls-over-the-2009-bitcoin-miner",
+      "source": "trustnodes",
+      "body": "The bitcoin sphere is abuzz following the movement of coins mined just about a month after the genesis block, sending all into frenzied speculation. The 50 bitcoins that partially found...The post Speculation Swirls Over the 2009 Bitcoin Miner appeared first on Trustnodes.",
+      "tags": "Bitcoin|Finance|News",
+      "categories": "BTC",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "TrustNodes",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/trustnodes.png"
+      }
+    },
+    {
+      "id": "14668178",
+      "guid": "https://seekingalpha.com/news/3576491-rumor-of-satoshi-sale-hits-bitcoin?utm_source=cryptocompare.com&utm_medium=referral",
+      "published_on": 1590003840,
+      "imageurl": "https://images.cryptocompare.com/news/seekingalpha/d80a00w8822.png",
+      "title": "Rumor of Satoshi sale hits Bitcoin",
+      "url": "https://seekingalpha.com/news/3576491-rumor-of-satoshi-sale-hits-bitcoin?utm_source=cryptocompare.com&utm_medium=referral",
+      "source": "seekingalpha",
+      "body": "Cruising along with very volatility over about the past week, Bitcoin (BTC-USD) midday dropped about $400 in minutes after Whale Alert noted the transfer of 40 Bitcoin from a wallet that had been dormant since 2009.The coins in the transaction were mined within the first month of Bitcoin's existence, says Whale Alert. It's possible the wallet was owned by Satoshi - the mysterious supposed creator of the crypto.It could have been anyone, says Nic Carter, co-founder of Coin Metrics. Thousands may have been mining Bitcoin during that time.Bitcoin has recovered a bit - currently\u00a0down 1.2%\u00a0to $9,524.",
+      "tags": "",
+      "categories": "BTC|Mining",
+      "upvotes": "0",
+      "downvotes": "1",
+      "lang": "EN",
+      "source_info": {
+        "name": "Seeking Alpha",
+        "lang": "EN",
+        "img": "https://images.cryptocompare.com/news/default/seekingalpha.png"
+      }
+    }
+  ],
+  "RateLimit": {},
+  "HasWarning": false
+}

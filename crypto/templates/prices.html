@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+		
+		{% if notfound or crypto.Response%}
+			
+			<br><h2>{{notfound}}</h2><br><br>
+			
+			{% if crypto.Response %}
+
+				<div class="alert alert-danger" role="alert">
+				 	"{{quote}}" doesn't exist. Please try again!
+				</div><br>
+
+			{% endif %}
+
+		{% else %}
+			{% for key,value in crypto.DISPLAY.items %} 
+				
+				<br><div class="jumbotron">
+					<h1 class="display-4 ">{{key}}</h1>
+					<strong>Name</strong>: {{key}}<br>
+					<strong>Price</strong>: {{value.USD.PRICE}}<br>
+					<strong>Day High</strong>: {{value.USD.HIGHDAY}}<br>
+					<strong>Day Low</strong>: {{value.USD.LOWDAY}} <br>
+					<strong>Market Cap</strong>: {{value.USD.MKTCAP}}<br>
+				</div>
+
+			{% endfor %}
+		{% endif %}
+		<br><h2>Enter a crypto currency symbol below into the search box</h2><br>
+		<table class="table table-hover table-striped table-sm">
+				<thead>
+					<tr>
+						<th scope="col">Currency</th>
+						<th scope="col">Ticket Symbol</th>
+					</tr>
+				</thead>
+			  <tbody>
+					{% for key,value in cryptolist.items %} 
+						<tr class="table-dark">
+							<th >{{key}}</th>
+							<th >{{value}}</th>
+
+						</tr>
+					{% endfor %}
+			  </tbody>
+			</table>
+
+{% endblock %}
